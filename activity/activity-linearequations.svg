@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55">
+  <style>
+    .entity_fill   { fill: #FFFFFF; }
+    .entity_stroke { stroke: #FFFFFF; stroke-width: 3; fill: none; }
+  </style>
+  <circle class="entity_fill" cx="27.5" cy="27.5" r="22"/>
+  <line class="entity_stroke" x1="16" y1="18" x2="24" y2="26"/>
+  <line class="entity_stroke" x1="24" y1="18" x2="16" y2="26"/>
+  <line class="entity_stroke" x1="27" y1="20" x2="40" y2="20"/>
+  <line class="entity_stroke" x1="27" y1="24" x2="40" y2="24"/>
+  <line class="entity_stroke" x1="14" y1="33" x2="40" y2="33"/>
+</svg>
