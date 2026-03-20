@@ -4,5 +4,5 @@ activity_version = 1
 bundle_id = org.sugarlabs.LinearEquations
 exec = sugar-activity3 activity.LinearEquationsActivity
 icon = activity-linearequations
-licence = GPLv3+
+license = GPLv3+
 repository = https://github.com/Bindkushal/linear-equations-activity
