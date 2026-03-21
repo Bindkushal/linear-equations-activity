@@ -5,4 +5,5 @@ bundle_id = org.sugarlabs.LinearEquations
 exec = sugar-activity3 activity.LinearEquationsActivity
 icon = activity-linearequations
 license = GPLv3+
-repository = https://github.com/Bindkushal/linear-equations-activity
+summary = Solve one-step and two-step linear equations, find the value of x, and build your algebra skills.
+repository = https://github.com/Bindkushal/linear-equations.activity
